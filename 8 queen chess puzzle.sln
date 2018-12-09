@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 queen chess puzzle", "8 queen chess puzzle\8 queen chess puzzle.csproj", "{31215F64-57AC-411C-8DA9-F80B93E6BF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31215F64-57AC-411C-8DA9-F80B93E6BF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31215F64-57AC-411C-8DA9-F80B93E6BF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31215F64-57AC-411C-8DA9-F80B93E6BF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31215F64-57AC-411C-8DA9-F80B93E6BF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
